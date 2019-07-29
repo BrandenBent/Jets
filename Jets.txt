@@ -1,0 +1,5 @@
+Passenger Jet, 500.00, 10000, 20000000
+Combat F-16 Fighter Jet, 1500.00, 25000, 14000000
+Combat Osprey Jet, 350.00, 12000, 72000000
+Cargo Jet, 400.00, 5000, 200000000
+Combat Invisible Jet, 1000.00, 9000, 1000000000
